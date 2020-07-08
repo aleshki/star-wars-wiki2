@@ -1,0 +1,9 @@
+.ItemsList {
+    background-color: #464152;
+    padding: 16px;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
